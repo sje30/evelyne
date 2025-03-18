@@ -1,5 +1,14 @@
 ---
 title: "Publications"
+bibliography: evelyne.bib
+---
+
+
+(This list is under construction; please let me know about any omissions.)
+
+---
+nocite: |
+  @*
 ---
 
 
