@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "Prof. Evelyne Sernagor"
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - publications.qmd
 ---
 
 About this site
