@@ -1,8 +1,59 @@
 ---
-title: "In memory of Evelyne Sernagor"
+subtitle: "Obituary and Tribute to Professor Evelyne Sernagor, Ph.D."
 ---
 
 
 ![](images/evelyne2.png)
 
-Prof Evelyne Sernagor 
+
+It is with great sadness that we announce the passing of Professor
+Evelyne Sernagor on March 1, 2025, Professor of Retinal Neuroscience
+at the Biosciences Institute, Newcastle University, U.K.
+
+Professor Sernagor completed her Ph.D. in Neurophysiology at the
+Hebrew University in 1988. She held two postdoctoral positions in the
+U.S. in the labs of M. O’Donovan (NIH) and N. Grzywacz
+(Smith-Kettlewell Eye Research Institute). Her work set the stage for
+her life-long focus on spontaneous activity in motor and retinal
+neurons. In her own lab at Newcastle University, she uncovered the
+cellular interactions that control the spatiotemporal dynamics of
+retinal spontaneous activity and the impact of spontaneous activity on
+ganglion cell development. She showed the importance of
+gamma-aminobutyric acid in retinal development and how it switches
+from an 'excitatory' to its classic 'inhibitory' action in the
+maturing retina.  A collaboration with L. Berdondini and 3Brain
+utilized a 4096-electrode array to reveal spatiotemporal dynamics of
+retinal waves at high spatial and temporal resolution. These studies
+and her work with computational experts and theorists to analyze large
+volumes of data collected by these arrays are the benchmark for
+characterizing retinal waves and light responses early in
+development. Professor Sernagor’s most recent collaboration (M. Lako)
+used these arrays to study the development of retinal human organoids,
+and they developed cell-transplantation strategies to restore
+vision.
+
+Evelyne (or “Madame” to her close friends) possessed an unshakable
+passion for understanding retinal development and its repair in
+disease. She was full of questions, which she addressed with
+imagination, innovation, and boundless enthusiasm. She cared deeply
+for her lab members, colleagues, and the Vision community, extending
+her expertise worldwide, including South Africa and Nigeria, where she
+taught for 17 years with IBRO.
+
+Professor Sernagor will be deeply missed as a colleague, leader,
+advocate for vision research, and much-treasured friend.
+
+Stephen Eglen (U. Cambridge), Enrica Strettoi (CNR, Pisa), Sivia Bisti
+(INBB, Rome), Marla Feller (UC Berkeley), Maureen McCall (U. Louisville), Rachel Wong (U. Washington).
+
+*** 
+
+Evelyne's academic research papers are listed on the
+[publications](publications.html) page.
+
+
+
+
+
+
+

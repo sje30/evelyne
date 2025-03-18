@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "In memory of Evelyne Sernagor"
+  title: "Evelyne Sernagor"
   navbar:
     left:
       - href: index.qmd
