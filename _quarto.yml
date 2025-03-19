@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  pre-render: generate-gallery.ts
 
 website:
   title: "Evelyne Sernagor"
@@ -10,15 +11,7 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-##      - about.qmd               
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
+      - href: galleries.qmd
+        text: Gallery
 
 
