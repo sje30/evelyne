@@ -24,6 +24,8 @@ description: Submitted by Linda Lako
 
 ![](images/IMG_0662.JPG){.lightbox group="gallery" fig-alt="IMG 0662"}
 
+![](images/word3.jpg){.lightbox group="gallery" fig-alt="word3"}
+
 ![](images/GUbDTrLg.jpeg){.lightbox group="gallery" fig-alt="GUbDTrLg"}
 
 ![](images/20240620_214840.jpg){.lightbox group="gallery" fig-alt="20240620 214840"}
@@ -32,11 +34,17 @@ description: Submitted by Linda Lako
 
 ![](images/IMG_0679.JPG){.lightbox group="gallery" fig-alt="IMG 0679"}
 
+![](images/word2.jpg){.lightbox group="gallery" fig-alt="word2"}
+
+![](images/word1.jpg){.lightbox group="gallery" fig-alt="word1"}
+
 ![](images/IMG_7521.jpeg){.lightbox group="gallery" fig-alt="IMG 7521"}
 
 ![](images/77C3B143-CA51-46EF-9375-509360D122F1.jpeg){.lightbox group="gallery" fig-alt="77C3B143-CA51-46EF-9375-509360D122F1"}
 
 ![](images/104C49DD-BEB5-4F8D-9807-90B99FC9628D.jpeg){.lightbox group="gallery" fig-alt="104C49DD-BEB5-4F8D-9807-90B99FC9628D"}
+
+![](images/word4.jpg){.lightbox group="gallery" fig-alt="word4"}
 
 ![](images/F9431EF3-692B-4328-8D19-C18A5B99F622.jpeg){.lightbox group="gallery" fig-alt="F9431EF3-692B-4328-8D19-C18A5B99F622"}
 
