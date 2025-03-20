@@ -4,6 +4,23 @@ bibliography: evelyne.bib
 ---
 
 
+## Retinal development book
+
+
+[Retinal Development, edited by E. Sernagor, S. Eglen, W. Harris, and
+R. Wong. 2006.  Cambridge University Press.](files/draft_may8.pdf)
+
+Evelyne was the lead editor on the textbook "Retinal Development",
+published by Cambridge University Press (CUP) in September 2006.  Thanks to
+our amazing editor, Katrina Halliday, we had a book launch in the CUP
+store.  There was also a half-day symposium with talks from various
+contributors.
+
+CUP have kindly agree that we can share the PDF here, in memory of
+Evelyne.  You can get it by clicking on the citation above.
+
+
+
 (This list is under construction; please let me know about any omissions.)
 
 ---
