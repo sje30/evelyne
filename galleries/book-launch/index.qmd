@@ -4,19 +4,17 @@ description: Submitted by Stephen Eglen
 ---
 
 ::: {layout-ncol=3}
+![](images/evelyne_siliva_kristina.jpg){.lightbox group="gallery" fig-alt="evelyne siliva kristina"}
 
-![](images/bill_evelyne.jpg){.lightbox group="gallery"}
+![](images/editors.jpg){.lightbox group="gallery" fig-alt="editors"}
 
-![](images/closed_eyes.jpg){.lightbox group="gallery"}
+![](images/contributors.jpg){.lightbox group="gallery" fig-alt="contributors"}
 
-![](images/contributors.jpg){.lightbox group="gallery"}
+![](images/evelyne_lucia_rachel.jpg){.lightbox group="gallery" fig-alt="evelyne lucia rachel"}
 
-![](images/editors.jpg){.lightbox group="gallery"}
+![](images/bill_evelyne.jpg){.lightbox group="gallery" fig-alt="bill evelyne"}
 
-![](images/editors2.jpg){.lightbox group="gallery"}
+![](images/editors2.jpg){.lightbox group="gallery" fig-alt="editors2"}
 
-![](images/evelyne_lucia_rachel.jpg){.lightbox group="gallery"}
-
-![](images/evelyne_siliva_kristina.jpg){.lightbox group="gallery"}
-
+![](images/closed_eyes.jpg){.lightbox group="gallery" fig-alt="closed eyes"}
 :::
