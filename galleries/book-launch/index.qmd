@@ -1,0 +1,22 @@
+---
+title: Book launch in Cambridge (2006)
+description: Submitted by Stephen Eglen
+---
+
+::: {layout-ncol=3}
+
+![](images/bill_evelyne.jpg){.lightbox group="gallery"}
+
+![](images/closed_eyes.jpg){.lightbox group="gallery"}
+
+![](images/contributors.jpg){.lightbox group="gallery"}
+
+![](images/editors.jpg){.lightbox group="gallery"}
+
+![](images/editors2.jpg){.lightbox group="gallery"}
+
+![](images/evelyne_lucia_rachel.jpg){.lightbox group="gallery"}
+
+![](images/evelyne_siliva_kristina.jpg){.lightbox group="gallery"}
+
+:::

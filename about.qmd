@@ -11,3 +11,6 @@ website:
 ---
 
 About this site
+
+
+Galleries built using https://vuorre.com/quarto-gallery/

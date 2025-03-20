@@ -6,6 +6,8 @@ description: Submitted by Linda Lako
 ::: {layout-ncol=3}
 ![](images/05CBE664-77E4-4CB0-90A3-DB6B69AFDB5E.jpeg){.lightbox group="gallery" fig-alt="05CBE664-77E4-4CB0-90A3-DB6B69AFDB5E"}
 
+![](images/Picture8.jpg){.lightbox group="gallery" fig-alt="Picture8"}
+
 ![](images/IMG_3093.jpg){.lightbox group="gallery" fig-alt="IMG 3093"}
 
 ![](images/2499C0A7-27DD-4C59-8ADE-3B93C15A6005.jpeg){.lightbox group="gallery" fig-alt="2499C0A7-27DD-4C59-8ADE-3B93C15A6005"}
@@ -40,27 +42,41 @@ description: Submitted by Linda Lako
 
 ![](images/6F3C0C65-A767-49C9-94E1-81464BFFC8B1.jpeg){.lightbox group="gallery" fig-alt="6F3C0C65-A767-49C9-94E1-81464BFFC8B1"}
 
+![](images/Picture1.jpg){.lightbox group="gallery" fig-alt="Picture1"}
+
 ![](images/evelyne_1.jpg){.lightbox group="gallery" fig-alt="evelyne 1"}
 
 ![](images/IMG_3475.JPG){.lightbox group="gallery" fig-alt="IMG 3475"}
 
 ![](images/AD746A3B-F3B8-4024-848A-82D75A6E43DF.jpeg){.lightbox group="gallery" fig-alt="AD746A3B-F3B8-4024-848A-82D75A6E43DF"}
 
+![](images/Picture2.jpg){.lightbox group="gallery" fig-alt="Picture2"}
+
 ![](images/evelyne_2.jpg){.lightbox group="gallery" fig-alt="evelyne 2"}
 
 ![](images/evelyne_3.jpg){.lightbox group="gallery" fig-alt="evelyne 3"}
+
+![](images/Picture3.jpg){.lightbox group="gallery" fig-alt="Picture3"}
 
 ![](images/37B32DB9-58D4-4D6F-AF3A-CB954D3EDAF9.jpeg){.lightbox group="gallery" fig-alt="37B32DB9-58D4-4D6F-AF3A-CB954D3EDAF9"}
 
 ![](images/F5E2E8A2-7B08-4D44-A1A7-B83D82C7CC7B.jpeg){.lightbox group="gallery" fig-alt="F5E2E8A2-7B08-4D44-A1A7-B83D82C7CC7B"}
 
+![](images/Picture7.jpg){.lightbox group="gallery" fig-alt="Picture7"}
+
 ![](images/DaxvM3dA.jpeg){.lightbox group="gallery" fig-alt="DaxvM3dA"}
 
+![](images/Picture6.jpg){.lightbox group="gallery" fig-alt="Picture6"}
+
 ![](images/5A9BF134-FCA4-4BA7-937C-C85556F701A9.jpeg){.lightbox group="gallery" fig-alt="5A9BF134-FCA4-4BA7-937C-C85556F701A9"}
+
+![](images/Picture4.jpg){.lightbox group="gallery" fig-alt="Picture4"}
 
 ![](images/evelyne_4.jpg){.lightbox group="gallery" fig-alt="evelyne 4"}
 
 ![](images/evelyne_5.jpg){.lightbox group="gallery" fig-alt="evelyne 5"}
+
+![](images/Picture5.jpg){.lightbox group="gallery" fig-alt="Picture5"}
 
 ![](images/5C4DF6FF-C10A-4975-B427-656CCCF5A52C.jpeg){.lightbox group="gallery" fig-alt="5C4DF6FF-C10A-4975-B427-656CCCF5A52C"}
 
