@@ -4,7 +4,7 @@
     "href": "galleries.html",
     "title": "Galleries",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nCollection 1\n\n\nSubmitted by Linda Lako\n\n\n\n\n\n\n\n\n\n\n\nBook launch in Cambridge (2006)\n\n\nSubmitted by Stephen Eglen\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nCollection 1\n\n\nSubmitted by Linda Lako\n\n\n\n\n\n\n\n\n\n\nBook launch in Cambridge (2006)\n\n\nSubmitted by Stephen Eglen\n\n\n\n\n\n\n\n\n\n\nMichael O’Donovan lab pictures\n\n\nSubmitted by members of the O’Donovan lab\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -33,5 +33,12 @@
     "title": "Prof. Evelyne Sernagor",
     "section": "",
     "text": "About this site\nGalleries built using https://vuorre.com/quarto-gallery/"
+  },
+  {
+    "objectID": "galleries/mod/index.html",
+    "href": "galleries/mod/index.html",
+    "title": "Michael O’Donovan lab pictures",
+    "section": "",
+    "text": "![]{images/Evelyne-Elliott-Hirshhorn.jpg){.lightbox group=“gallery” fig-alt=“Agnes and Evelyne”}"
   }
 ]

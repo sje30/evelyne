@@ -3,7 +3,8 @@
     "listing": "/galleries.html",
     "items": [
       "/galleries/my-gallery/index.html",
-      "/galleries/book-launch/index.html"
+      "/galleries/book-launch/index.html",
+      "/galleries/mod/index.html"
     ]
   }
 ]

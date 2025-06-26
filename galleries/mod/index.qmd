@@ -1,0 +1,18 @@
+---
+title: Michael O'Donovan lab pictures
+description: Submitted by members of the O'Donovan lab
+---
+
+::: {layout-ncol=2}
+
+
+![](images/Agnes-and-Evelyne.png){.lightbox group="gallery" fig-alt="Agnes and Evelyne"}
+
+![](images/Evelyne-Elliott-Hirshhorn.jpg){.lightbox group="gallery"
+fig-alt="Agnes and Evelyne"}
+
+![](images/evelyne-May-2005.jpg){.lightbox group="gallery" fig-alt="Agnes and Evelyne"}
+![](images/Marco-Ariel,-Evelyne-and-Joel.jpg){.lightbox group="gallery" fig-alt="Agnes and Evelyne"}
+
+
+:::
