@@ -12,6 +12,7 @@ description: Submitted by members of the O'Donovan lab
 fig-alt="Agnes and Evelyne"}
 
 ![](images/evelyne-May-2005.jpg){.lightbox group="gallery" fig-alt="Agnes and Evelyne"}
+
 ![](images/Marco-Ariel,-Evelyne-and-Joel.jpg){.lightbox group="gallery" fig-alt="Agnes and Evelyne"}
 
 
