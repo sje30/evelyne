@@ -2,9 +2,37 @@
   {
     "objectID": "galleries.html",
     "href": "galleries.html",
-    "title": "Galleries",
+    "title": "Memories",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nCollection 1\n\n\nSubmitted by Linda Lako\n\n\n\n\n\n\n\n\n\n\nBook launch in Cambridge (2006)\n\n\nSubmitted by Stephen Eglen\n\n\n\n\n\n\n\n\n\n\nMichael O’Donovan lab pictures\n\n\nSubmitted by members of the O’Donovan lab\n\n\n\n\n\nNo matching items"
+    "text": "The Remembrance Book from Evelyne’s funeral service is available, thanks to Nic Myers."
+  },
+  {
+    "objectID": "galleries.html#remembrance-book",
+    "href": "galleries.html#remembrance-book",
+    "title": "Memories",
+    "section": "",
+    "text": "The Remembrance Book from Evelyne’s funeral service is available, thanks to Nic Myers."
+  },
+  {
+    "objectID": "galleries.html#photo-galleries",
+    "href": "galleries.html#photo-galleries",
+    "title": "Memories",
+    "section": "Photo galleries",
+    "text": "Photo galleries"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Prof. Evelyne Sernagor",
+    "section": "",
+    "text": "About this site\nGalleries built using https://vuorre.com/quarto-gallery/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evelyne Sernagor",
+    "section": "",
+    "text": "It is with great sadness that we announce the passing of Professor Evelyne Sernagor on March 2, 2025, Professor of Retinal Neuroscience at the Biosciences Institute, Newcastle University, U.K.\nProfessor Sernagor completed her Ph.D. in Neurophysiology at the Hebrew University in 1988. She held two postdoctoral positions in the U.S. in the labs of M. O’Donovan (NIH) and N. Grzywacz (Smith-Kettlewell Eye Research Institute). Her work set the stage for her life-long focus on spontaneous activity in motor and retinal neurons. In her own lab at Newcastle University, she uncovered the cellular interactions that control the spatiotemporal dynamics of retinal spontaneous activity and the impact of spontaneous activity on ganglion cell development. She showed the importance of gamma-aminobutyric acid in retinal development and how it switches from an ‘excitatory’ to its classic ‘inhibitory’ action in the maturing retina. A collaboration with L. Berdondini and 3Brain utilized a 4096-electrode array to reveal spatiotemporal dynamics of retinal waves at high spatial and temporal resolution. These studies and her work with computational experts and theorists to analyze large volumes of data collected by these arrays are the benchmark for characterizing retinal waves and light responses early in development. Professor Sernagor’s most recent collaboration (M. Lako) used these arrays to study the development of retinal human organoids, and they developed cell-transplantation strategies to restore vision.\nEvelyne (or “Madame” to her close friends) possessed an unshakable passion for understanding retinal development and its repair in disease. She was full of questions, which she addressed with imagination, innovation, and boundless enthusiasm. She cared deeply for her lab members, colleagues, and the Vision community, extending her expertise worldwide, including South Africa and Nigeria, where she taught for 17 years with IBRO.\nProfessor Sernagor will be deeply missed as a colleague, leader, advocate for vision research, and much-treasured friend.\nStephen Eglen (U. Cambridge), Enrica Strettoi (CNR, Pisa), Sivia Bisti (INBB, Rome), Marla Feller (UC Berkeley), Maureen McCall (U. Louisville), Rachel Wong (U. Washington).\n\nEvelyne’s academic research papers are listed on the publications page."
   },
   {
     "objectID": "publications.html",
@@ -19,26 +47,5 @@
     "title": "Publications",
     "section": "",
     "text": "Retinal Development, edited by E. Sernagor, S. Eglen, W. Harris, and R. Wong. 2006. Cambridge University Press.\nEvelyne was the lead editor on the textbook “Retinal Development”, published by Cambridge University Press (CUP) in September 2006. Thanks to our amazing editor, Katrina Halliday, we had a book launch in the CUP store. There was also a half-day symposium with talks from various contributors.\nCUP have kindly agree that we can share the PDF here, in memory of Evelyne. You can get it by clicking on the citation above.\n(This list is under construction; please let me know about any omissions.)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Evelyne Sernagor",
-    "section": "",
-    "text": "It is with great sadness that we announce the passing of Professor Evelyne Sernagor on March 2, 2025, Professor of Retinal Neuroscience at the Biosciences Institute, Newcastle University, U.K.\nProfessor Sernagor completed her Ph.D. in Neurophysiology at the Hebrew University in 1988. She held two postdoctoral positions in the U.S. in the labs of M. O’Donovan (NIH) and N. Grzywacz (Smith-Kettlewell Eye Research Institute). Her work set the stage for her life-long focus on spontaneous activity in motor and retinal neurons. In her own lab at Newcastle University, she uncovered the cellular interactions that control the spatiotemporal dynamics of retinal spontaneous activity and the impact of spontaneous activity on ganglion cell development. She showed the importance of gamma-aminobutyric acid in retinal development and how it switches from an ‘excitatory’ to its classic ‘inhibitory’ action in the maturing retina. A collaboration with L. Berdondini and 3Brain utilized a 4096-electrode array to reveal spatiotemporal dynamics of retinal waves at high spatial and temporal resolution. These studies and her work with computational experts and theorists to analyze large volumes of data collected by these arrays are the benchmark for characterizing retinal waves and light responses early in development. Professor Sernagor’s most recent collaboration (M. Lako) used these arrays to study the development of retinal human organoids, and they developed cell-transplantation strategies to restore vision.\nEvelyne (or “Madame” to her close friends) possessed an unshakable passion for understanding retinal development and its repair in disease. She was full of questions, which she addressed with imagination, innovation, and boundless enthusiasm. She cared deeply for her lab members, colleagues, and the Vision community, extending her expertise worldwide, including South Africa and Nigeria, where she taught for 17 years with IBRO.\nProfessor Sernagor will be deeply missed as a colleague, leader, advocate for vision research, and much-treasured friend.\nStephen Eglen (U. Cambridge), Enrica Strettoi (CNR, Pisa), Sivia Bisti (INBB, Rome), Marla Feller (UC Berkeley), Maureen McCall (U. Louisville), Rachel Wong (U. Washington).\n\nEvelyne’s academic research papers are listed on the publications page."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Prof. Evelyne Sernagor",
-    "section": "",
-    "text": "About this site\nGalleries built using https://vuorre.com/quarto-gallery/"
-  },
-  {
-    "objectID": "galleries/mod/index.html",
-    "href": "galleries/mod/index.html",
-    "title": "Michael O’Donovan lab pictures",
-    "section": "",
-    "text": "![]{images/Evelyne-Elliott-Hirshhorn.jpg){.lightbox group=“gallery” fig-alt=“Agnes and Evelyne”}"
   }
 ]

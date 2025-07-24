@@ -1,5 +1,5 @@
 ---
-title: "Galleries"
+title: "Memories"
 listing:
   - id: galleries
     contents: galleries
@@ -10,3 +10,11 @@ listing:
     filter-ui: true
     fields: [image, title, description]
 ---
+
+
+## Remembrance book
+
+The [Remembrance Book](files/evelyne-remembrance-book.pdf) from
+Evelyne's funeral service is available, thanks to Nic Myers.
+
+## Photo galleries
