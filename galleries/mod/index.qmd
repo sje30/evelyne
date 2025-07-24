@@ -4,19 +4,14 @@ description: Submitted by members of the O'Donovan lab
 ---
 
 ::: {layout-ncol=3}
-![](images/evelyne May 2005.jpg){.lightbox group="gallery" fig-alt="evelyne May 2005"}
-
 ![](images/evelyne-May-2005.jpg){.lightbox group="gallery" fig-alt="evelyne-May-2005"}
 
 ![](images/Evelyne-Elliott-Hirshhorn.jpg){.lightbox group="gallery" fig-alt="Evelyne-Elliott-Hirshhorn"}
 
 ![](images/Agnes-and-Evelyne.png){.lightbox group="gallery" fig-alt="Agnes-and-Evelyne"}
 
-![](images/Marco Ariel, Evelyne and Joel.jpg){.lightbox group="gallery" fig-alt="Marco Ariel, Evelyne and Joel"}
-
-![](images/Evelyne Elliott Hirshhorn.jpg){.lightbox group="gallery" fig-alt="Evelyne Elliott Hirshhorn"}
 
 ![](images/Marco-Ariel,-Evelyne-and-Joel.jpg){.lightbox group="gallery" fig-alt="Marco-Ariel,-Evelyne-and-Joel"}
 
-![](images/Agnes and Evelyne.png){.lightbox group="gallery" fig-alt="Agnes and Evelyne"}
+
 :::
